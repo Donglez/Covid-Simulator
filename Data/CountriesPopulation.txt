@@ -1,0 +1,172 @@
+Country,population in thousands taken in 2019(countries under 100 thousand are not shown),7673533 in the world total
+Afghanistan,38041
+Albania,2854
+Algeria,43053
+Angola,31825
+Argentina,44938
+Armenia,2957
+Australia,25364
+Austria,8877
+Azerbaijan,10023
+Bahamas,389
+Bahrain,1641
+Bangladesh,163046
+Barbados,287
+Belarus,9466
+Belgium,11484
+Benin,11801
+Bhutan,763
+Bolivia,11513
+Bosnia and Herzegovina,3301
+Botswana,2303
+Brazil,211049
+Brunei,433
+Bulgaria,6975
+Burkina Faso,20321
+Burundi,11530
+Cambodia,16486
+Cameroon,25876
+Canada,37589
+Cape Verde,549
+Central African Republic,4745
+Chad,15946
+Chile,18952
+China,1397715
+Colombia,50339
+Comoros,850
+Congo,92000
+Costa Rica,5047
+Croatia,4067
+Cuba,11333
+Cyprus,1198
+Czech Republic,10669
+Denmark,5818
+Djibouti,973
+Dominican Republic,10738
+Ecuador,17373
+Egypt,100388
+El Salvador,6453
+Equatorial Guinea,1355
+Eritrea,3213
+Estonia,1326
+Ethiopia,112078
+Fiji,889
+Finland,5520
+France,67059
+Gabon,2172
+Gambia,2347
+Georgia,3720
+Germany,83132
+Ghana,30417
+Greece,10716
+Grenada,112
+Guatemala,16604
+Guinea,12771
+Guinea-Bissau,1920
+Guyana,782
+Haiti,11263
+Honduras,9746
+Hungary,9769
+Iceland,361
+India,1366417
+Indonesia,270625
+Iran,82913
+Iraq,39309
+Ireland,4941
+Israel,9053
+Italy,60297
+Jamaica,2948
+Japan,126264
+Jordan,10101
+Kazakhstan,18513
+Kenya,52573
+South Korea,51709
+Kuwait,4207
+Laos,7169
+Latvia,1912
+Lebanon,6855
+Lesotho,2125
+Liberia,4937
+Libya,6777
+Lithuania,2786
+Luxembourg,619
+Macedonia,640
+Madagascar,26969
+Malawi,18628
+Malaysia,31949
+Maldives,530
+Mali,19658
+Malta,502
+Mauritania,4525
+Mauritius,1265
+Mexico,127575
+Micronesia,113
+Moldova,2657
+Mongolia,3225
+Montenegro,622
+Morocco,36471
+Mozambique,30366
+Burma,54045
+Namibia,2494
+Nepal,28608
+Netherlands,17332
+New Zealand,4917
+Nicaragua,6545
+Niger,23310
+Nigeria,200963
+Norway,5347
+Oman,4974
+Pakistan,216565
+Panama,4246
+Papua New Guinea,8776
+Paraguay,7044
+Peru,42510
+Philippines,108116
+Poland,37970
+Portugal,10269
+Qatar,2832
+Romania,19356
+Russia,144373
+Rwanda,12626
+Samoa,197
+Saudi Arabia,34268
+Senegal,16296
+Serbia,6944
+Sierra Leone,7813
+Singapore,5703
+Slovakia,5454
+Slovenia,2087
+Somalia,15442
+South Africa,58558
+Spain,47076
+Sri Lanka,21803
+Sudan,60000
+Suriname,581
+Swaziland,1148
+Sweden,10285
+Switzerland,8574
+Syria,17070
+Taiwan,23780
+Tajikistan,9321
+Tanzania,58005
+Thailand,69625
+Togo,8082
+Tonga,104
+Trinidad and Tobago,1394
+Tunisia,11694
+Turkey,83429
+Turkmenistan,5942
+Uganda,44269
+Ukraine,44385
+United Arab Emirates,9770
+United Kingdom,66834
+United States,328239
+Uruguay,3461
+Uzbekistan,33580
+Vanuatu,300
+Venezuela,28515
+Vietnam,96462
+Yemen,29161
+Zambia,17861
+Zimbabwe,14645
+Hong Kong,7451
